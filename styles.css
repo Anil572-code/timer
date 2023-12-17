@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: black;
+    margin: 50px;
+  }
+  
+  #timer {
+    font-size: 500px;
+    font-weight: bold;
+    color: greenyellow;
+    margin-bottom: 20px;
+  }
+  
+  .countdown {
+    color: black;
+  }
+  
+  .stopwatch {
+    color: red;
+  }
+  
+  #controls {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    font-size: 1em;
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
